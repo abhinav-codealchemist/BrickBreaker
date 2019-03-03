@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/BrickBreaker.svg)](http://hits.dwyl.io/abhinav-codealchemist/BrickBreaker)
 # BrickBreaker
 Game
 
